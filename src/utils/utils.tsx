@@ -1,6 +1,6 @@
-import { useAppDispatch } from '@/app/hooks';
+//import { useAppDispatch } from '@/app/hooks';
 import { LOCALFAVORITE, LOCALUSER } from './constants';
-import { resetFavoriteList } from '@/components/pages/FavoritesPage/FavoritesPage.slice';
+//import { resetFavoriteList } from '@/components/pages/FavoritesPage/FavoritesPage.slice';
 
 type User = {
   email: string;

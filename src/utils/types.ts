@@ -143,3 +143,13 @@ export type ArtworkFullType = {
 export type SpecificationProps = {
   data: ArtworkFullType | null;
 };
+
+export type Artwork = { 
+  id: number;
+  title: string;
+  artist_display: string;
+  date_display: string;
+  image_id: string | null;
+};
+
+

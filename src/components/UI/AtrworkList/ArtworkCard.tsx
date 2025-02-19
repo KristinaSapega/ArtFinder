@@ -14,6 +14,7 @@ import {
 import { selectIsUser } from '@/utils/selectors';
 import { Link } from 'react-router';
 
+
 export const ArtworkCard: React.FC<ArtworkCardProps> = ({
   id,
   title,
