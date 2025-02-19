@@ -1,6 +1,7 @@
 import { filterArtworks } from "./filterArtworks";
 import { Artwork } from "./types";
 
+
 const mockArtworks: Artwork[] = [
     { id: 1, title: "Starry Night", artist_display: "Vincent van Gogh", date_display: "1889", image_id: "123" },
     { id: 2, title: "The Persistence of Memory", artist_display: "Salvador Dalí", date_display: "1931", image_id: "456" },
