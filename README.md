@@ -5,7 +5,7 @@
 Проект разработан на **React (Vite) + TypeScript** и использует **Redux Toolkit** для управления состоянием.
 
 ## Демо  
-✨ **Ссылка на деплой:** [artfinder.vercel.app](https://art-finder-art.vercel.app/)  
+**Ссылка на деплой:** [artfinder.vercel.app](https://art-finder-art.vercel.app/)  
 
 ## Функционал  
 ✅ Поиск произведений по названию и автору   
